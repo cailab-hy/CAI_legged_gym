@@ -1,6 +1,12 @@
 ### Other Git repo for GO2 ### 
+0. [unitree_rl_gym](https://github.com/unitreerobotics/unitree_rl_gym) -> Main reference repo
 1. [go2_omniverse](https://github.com/abizovnuralem/go2_omniverse) -> Main reference repo
 2. [unitree-go2-ros2](https://github.com/anujjain-dev/unitree-go2-ros2) -> Additional reference repo
+
+### Team Main task ###
+[] Add GO2 in legged_gym 
+[] Test GO2 robot by [reference paper](https://leggedrobotics.github.io/legged_gym/)
+[] Create Task for GO2
 
 
 ### Installation ###
