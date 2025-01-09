@@ -4,8 +4,10 @@
 2. [unitree-go2-ros2](https://github.com/anujjain-dev/unitree-go2-ros2) -> Additional reference repo
 
 ### Team Main task ###
-[] Add GO2 in legged_gym 
+[] Add GO2 in legged_gym -> See detail [unitree_rl_gym](https://github.com/unitreerobotics/unitree_rl_gym)
+
 [] Test GO2 robot by [reference paper](https://leggedrobotics.github.io/legged_gym/)
+
 [] Create Task for GO2
 
 
