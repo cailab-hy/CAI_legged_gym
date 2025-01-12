@@ -2,6 +2,7 @@
 0. [unitree_rl_gym](https://github.com/unitreerobotics/unitree_rl_gym) -> Main reference repo
 1. [go2_omniverse](https://github.com/abizovnuralem/go2_omniverse) -> Main reference repo
 2. [unitree-go2-ros2](https://github.com/anujjain-dev/unitree-go2-ros2) -> Additional reference repo
+3. [documentation](https://docs.robotsfan.com/isaacgym/genindex.html) -> Issac Gym documentation
 
 ### Team Main task ###
 - [ ] Add GO2 in legged_gym -> See detail [unitree_rl_gym](https://github.com/unitreerobotics/unitree_rl_gym)
