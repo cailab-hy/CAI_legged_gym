@@ -29,6 +29,10 @@
 # Copyright (c) 2021 ETH Zurich, Nikita Rudin
 
 import os
+#os모듈 임포트
 
 LEGGED_GYM_ROOT_DIR = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
+#현재스크립트 경로에서 2단계 위의 상위 경로를 받아옴(/home/cai-share/legged_gym)
 LEGGED_GYM_ENVS_DIR = os.path.join(LEGGED_GYM_ROOT_DIR, 'legged_gym', 'envs')
+#(/home/cai-share/legged_gym/legged_gym/envs)
+print(LEGGED_GYM_ENVS_DIR)
