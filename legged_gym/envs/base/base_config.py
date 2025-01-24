@@ -29,6 +29,7 @@
 # Copyright (c) 2021 ETH Zurich, Nikita Rudin
 
 import inspect
+#객체정보 확인 모듈
 
 class BaseConfig:
     def __init__(self) -> None:
